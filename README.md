@@ -8,8 +8,6 @@ Cell2Fire is a cellular automaton simulation that imitates the spread of fire in
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -83,5 +81,12 @@ Project was built upon following librariers:
 
 ## Examples
 
-
+Here you can find an example of the Ceullar Automata with following parameters:
+- `IGNITE_PROB` = 0.5,
+- `SELF_IGNITE_PROB` = 0.001,
+- `TREE_REGROWTH_K` = 20,
+- `FIRE_DIRECTION_CHANGE_PROBABILITY_THRESH` = 1,
+- `FIRE_DIRECTION_K` = 5;
+- 
+![Animation](https://github.com/kpomichowski/Cell2FireCA/blob/master/output.gif)
 
