@@ -87,6 +87,6 @@ Here you can find an example of the Ceullar Automata with following parameters:
 - `TREE_REGROWTH_K` = 20,
 - `FIRE_DIRECTION_CHANGE_PROBABILITY_THRESH` = 1,
 - `FIRE_DIRECTION_K` = 5;
-- 
+
 ![Animation](https://github.com/kpomichowski/Cell2FireCA/blob/master/output.gif)
 
